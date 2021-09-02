@@ -1,0 +1,17 @@
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.botao {
+  width: 100px;
+  padding: 20px;
+  background-color: rgba(89, 138, 238, 1);
+  border-radius: 5px;
+  color: white;
+  align-items: center;
+  margin: auto;
+  margin-top: 300px;
+  text-align: center;
+  font-size: 20px;
+}
